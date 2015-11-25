@@ -1,4 +1,4 @@
-package com.cvberry.bquickstart.test;
+package com.cvberry.bquickstart;
 
 import org.junit.*;
 import static org.junit.Assert.*;

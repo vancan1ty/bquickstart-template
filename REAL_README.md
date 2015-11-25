@@ -1,0 +1,1 @@
+This project contains a simple example project which is used (in conjunction with the Makefile in the home directory) to generate a maven archetype which can then be used to easily create simple projects.
